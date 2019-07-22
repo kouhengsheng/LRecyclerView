@@ -5,7 +5,6 @@ LRecyclerView是支持addHeaderView、 addFooterView、下拉刷新、分页加�
 
 **它对 RecyclerView 控件进行了拓展，给RecyclerView增加HeaderView、FooterView，并且不需要对你的Adapter做任何修改。**
 
-
 推荐
 ----------
 [RxJava经典视频教程已经上线，戳我就可以看啦......](http://www.stay4it.com/course/27)
